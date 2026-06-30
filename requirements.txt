@@ -1,0 +1,11 @@
+# Core Deep Learning Libraries
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Computer Vision & Image Processing
+opencv-python>=4.7.0
+Pillow>=9.5.0
+numpy>=1.23.0
+
+# Web Application UI (used in app.py)
+gradio>=3.30.0
